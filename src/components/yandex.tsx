@@ -1,6 +1,6 @@
 import Script from "next/script";
 
-export function Yandex({ children, className, ...rest }: any) {
+export function Yandex() {
     return (
         <>
             <Script

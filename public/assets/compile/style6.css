@@ -598,7 +598,7 @@ body.l-grid a {
   background: transparent url("") repeat-x scroll left bottom;
 }
 .b-sevice ins {
-  background: url("/images/empty.gif") no-repeat scroll 50% 50% transparent;
+  /* background: url("/images/empty.gif") no-repeat scroll 50% 50% transparent; */
   height: 50px;
   width: 1px;
   overflow: hidden;
@@ -859,12 +859,12 @@ body.b-picture {
   text-decoration: none;
   text-transform: none;
   color: #ffffff;
-  background: transparent url("/images/empty.gif") repeat-x scroll left bottom;
+  /* background: transparent url("/images/empty.gif") repeat-x scroll left bottom; */
   display: block;
   padding: 5px 15px 5px 15px;
 }
 .b-menu .item-1 ins {
-  background: url("/images/empty.gif") no-repeat scroll 50% 50% transparent;
+  /* background: url("/images/empty.gif") no-repeat scroll 50% 50% transparent; */
   overflow: hidden;
   position: absolute;
   bottom: -1px;
